@@ -7,7 +7,7 @@ project 1
 
 https://santacionx.github.io/ballgame/
 
-project 2 game : a left d: right
+project 2 game  | PRESS ENTER TO START GAME |  PRESS A -> MOVE LEFT | PRESS B-> MOVE RIGHT
 
 https://santacionx.github.io/PingPongGame/
 

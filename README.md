@@ -7,7 +7,7 @@ project 1
 
 https://santacionx.github.io/ballgame/
 
-project 2
+project 2 game : a left d: right
 
 https://santacionx.github.io/PingPongGame/
 

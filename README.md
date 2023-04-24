@@ -18,3 +18,7 @@ https://santacionx.github.io/counterGame/
 project 4 
 
 https://santacionx.github.io/SnakeGame2023/
+
+PROJECT 5
+
+https://santacionx.github.io/DiamondHuntGame-2023/

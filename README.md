@@ -26,3 +26,6 @@ https://santacionx.github.io/DiamondHuntGame-2023/
 project 6
 
 https://santacionx.github.io/SpinWheel-2023/
+
+project 7
+https://santacionx.github.io/SuperMarioGame2023/

@@ -22,3 +22,7 @@ https://santacionx.github.io/SnakeGame2023/
 PROJECT 5
 
 https://santacionx.github.io/DiamondHuntGame-2023/
+
+project 6
+
+https://santacionx.github.io/SpinWheel-2023/
